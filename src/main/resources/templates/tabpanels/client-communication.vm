@@ -1,0 +1,18 @@
+<html>
+<script>
+	function addElement() {
+    // Adds an element to the document
+    var p = document.getElementById("parent");
+    var newElement = document.createElement("p");
+    newElement.setAttribute('class', 'child');
+    var usr = $user
+    newElement.innerHTML = `Hai This is Child Data ${usr}`;
+    p.appendChild(newElement);
+}
+</script>
+<body>
+<button id="Addbutton" onclick=addElement()> Click Me!</button>
+<b>Hey $user, sample Issue Tab Panel!</b>
+<p id="parent">First One</p>
+</body>
+</html>
