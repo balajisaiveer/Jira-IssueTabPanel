@@ -5,14 +5,14 @@
     var p = document.getElementById("parent");
     var newElement = document.createElement("p");
     newElement.setAttribute('class', 'child');
-    var usr = $user
-    newElement.innerHTML = `Hai This is Child Data ${usr}`;
+    newElement.innerHTML = 'Hai This is Child Data';
     p.appendChild(newElement);
 }
 </script>
 <body>
 <button id="Addbutton" onclick=addElement()> Click Me!</button>
 <b>Hey $user, sample Issue Tab Panel!</b>
+<b>This is the summary $summary</b>
 <p id="parent">First One</p>
 </body>
 </html>
