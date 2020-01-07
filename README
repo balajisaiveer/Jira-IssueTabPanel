@@ -9,3 +9,12 @@ Here are the SDK commands you'll use immediately:
 Full documentation is always available at:
 
 https://developer.atlassian.com/display/DOCS/Introduction+to+the+Atlassian+Plugin+SDK
+
+Links used
+
+https://community.atlassian.com/t5/Jira-questions/How-to-Add-Issue-Tab-Panel-with-ScriptRunner/qaq-p/937881
+https://developer.atlassian.com/server/jira/platform/loading-issue-tab-panels-with-ajax/
+https://developer.atlassian.com/server/jira/platform/adding-content-to-the-jira-view-issue-page/
+https://developer.atlassian.com/server/jira/platform/adding-content-to-the-jira-view-issue-page/
+https://developer.atlassian.com/server/framework/atlassian-sdk/getting-started-with-active-objects/
+
